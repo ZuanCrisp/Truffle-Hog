@@ -1,0 +1,6 @@
+Original tag name: v3.0.0
+Original tag object: fda044631b344997a4556f52aadbd7c8275d0802
+Original target commit: fda044631b344997a4556f52aadbd7c8275d0802
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
